@@ -1,0 +1,11 @@
+@media all and (max-width: 425px) {
+
+  .logo-text{
+    display: none !important;
+  }
+
+  .hero-content > .img img{
+    width: 100%;
+  }
+
+}
